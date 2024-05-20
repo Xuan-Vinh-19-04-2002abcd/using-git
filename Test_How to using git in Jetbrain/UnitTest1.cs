@@ -16,5 +16,5 @@ public class Tests
     test funca
     add  new function B
     we having function C
-    new function D 
+    new function D ....
 }
