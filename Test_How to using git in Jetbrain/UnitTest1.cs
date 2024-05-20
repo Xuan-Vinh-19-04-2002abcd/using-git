@@ -14,4 +14,5 @@ public class Tests
         Assert.Pass();fdgdgdgfsdfssđf
     }
     test funca
+    add  new function B
 }
