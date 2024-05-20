@@ -13,4 +13,5 @@ public class Tests
     {
         Assert.Pass();fdgdgdgfsdfssđf
     }
+    test funca
 }
