@@ -17,4 +17,5 @@ public class Tests
     add  new function B
     we having function C
     fgfhhg
+    new function D ....
 }
